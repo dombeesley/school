@@ -1,0 +1,29 @@
+body{
+    background-color: #1A2A89
+}
+
+h1 {
+    color: white
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+
+}
+.social-link {
+    color: grey;
+    font-size: 2em;
+    margin: 5px;
+}
+
+.social-link:hover{
+    color: white;
+}
+
